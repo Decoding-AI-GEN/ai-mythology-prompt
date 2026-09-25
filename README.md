@@ -1,0 +1,1 @@
+# ai-mythology-prompt
